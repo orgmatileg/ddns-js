@@ -1,0 +1,28 @@
+{
+  "name": "ddns.js",
+  "version": "1.0.0",
+  "description": "This script is for who dont have ip public but wanna access their pc/server at home from anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgmatileg/ddns-js.git"
+  },
+  "keywords": [
+    "ddns",
+    "devops",
+    "js"
+  ],
+  "author": "Luqmanul Hakim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orgmatileg/ddns-js/issues"
+  },
+  "homepage": "https://github.com/orgmatileg/ddns-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security"
+  }
+}
