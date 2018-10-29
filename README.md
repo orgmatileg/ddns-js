@@ -11,5 +11,5 @@ hostname = 'put-your-hostname(ex: example.ddns.net)';
 and you are ready to go: node index.js
 
 
-Author: Luqmanul Hakim (Full-Stack Javascript Engineer | Node.js | Express | Koa | React | Angular | Docker)
+Author: Luqmanul Hakim (Full-Stack Javascript Engineer | Node.js | Express | Koa | React | Angular | Docker)  
 Email: arlhba@gmail.com
