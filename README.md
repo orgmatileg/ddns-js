@@ -13,7 +13,7 @@ password = 'put-your-password';
 hostname = 'put-your-hostname(ex: example.ddns.net)';  
 
 
-and you are ready to go: node index.js
+and you are ready to go: npm start / node index.js
   
   
 Author: Luqmanul Hakim (Full-Stack Javascript Engineer | Node.js | Express | Koa | React | Angular | Docker)  
